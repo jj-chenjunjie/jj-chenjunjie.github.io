@@ -3,8 +3,3 @@ email: 943388837@qq.com
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
